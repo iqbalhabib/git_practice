@@ -1,2 +1,3 @@
 Hello git 
 this is my first repository
+Learning Git step by step.
